@@ -1,0 +1,43 @@
+Test Case ID: 		TC-001.01 - PASSED
+Title Expected/Actual: 	Welcome to Sign Up/Welcome to Sign Up
+=======================================
+Test Case ID: 		TC-001.02 - PASSED
+Title Expected/Actual: 	Welcome to Facebook - Log In, Sign Up or Learn More/Welcome to Facebook - Log In, Sign Up or Learn More
+=======================================
+Test Case ID: 		TC-001.03 - PASSED
+Quote length: 91
+=======================================
+Test Case ID: 		TC-001.04 - PASSED
+Error Expected/Actual: 	Please enter First Name/Please enter First Name
+=======================================
+Test Case ID: 		TC-001.05 - PASSED
+First Expected/Actual: 	Sergey/Sergey
+Last Expected/Actual: 	Koyfman/Koyfman
+Email Expected/Actual: 	sergey455@gmail.com/sergey455@gmail.com
+Phone Expected/Actual: 	415 555-1212/415 555-1212
+=======================================
+Test Case ID: 		TC-001.06 - PASSED
+Error Expected/Actual: 	Please enter Last Name/Please enter Last Name
+=======================================
+Test Case ID: 		TC-001.07 - PASSED
+Error Expected/Actual: 	Please enter Email Address/Please enter Email Address
+=======================================
+Test Case ID: 		TC-001.08 - PASSED
+Error Expected/Actual: 	Please enter Phone Number/Please enter Phone Number
+=======================================
+Test Case ID: 		TC-001.09 - PASSED
+Error Expected/Actual: 	Invalid First Name: [a-zA-Z,.'-]{3,30}/Invalid First Name: [a-zA-Z,.'-]{3,30}/Ser5
+=======================================
+Test Case ID: 		TC-001.10 - PASSED
+Error Expected/Actual: 	Invalid First Name: [a-zA-Z,.'-]{3,30}/Invalid First Name: [a-zA-Z,.'-]{3,30}/Se
+=======================================
+Test Case ID: 		TC-001.11 - FAILED
+Error Expected/Actual: 	Invalid First Name: [a-zA-Z,.'-]{3,30}/Please enter Last Name/Serasdasdadadadadadadfdgdfgdgaaasds
+=======================================
+Test Case ID: 		TC-001.12 - PASSED
+First Expected/Actual: 	Sergey/Sergey
+Last Expected/Actual: 	Koyfman/Koyfman
+Email Expected/Actual: 	sergey455@gmail.com/sergey455@gmail.com
+Phone Expected/Actual: 	415 555-1212/415 555-1212
+Gender Expected/Actual: 	Female/Female
+=======================================
